@@ -3,18 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Koenigsegg Supercars</title>
+    <title>Koenigsegg</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    ><header>
         Koenigsegg: Engineering Excellence
     </header>
+    
     <main>
+        <center>
         <section>
-            <h1>About Koenigsegg</h1>
+            <h1>About Koenigsegg</h1> 
+            <img src="resources\About\koenigsegg-ghost-logo.jpg" alt="Koenigsegg Jesko" width="100">
             <p>Koenigsegg Automotive AB is a Swedish manufacturer of high-performance sports cars, founded in 1994 by Christian von Koenigsegg. The company is known for its commitment to innovation, advanced engineering, and exceptional performance.</p>
         </section>
+        </center>
         <div class="container">
         <section>
             <h2>Models</h2>
@@ -22,7 +26,7 @@
                 <h3>Koenigsegg Jesko</h3>
                 
                 <figure>
-                    <img src="resources\jesko.jpg" alt="Koenigsegg Jesko" width="600">
+                    <img src="resources\Jesko\jesko.jpg" alt="Koenigsegg Jesko" width="600">
                     <figcaption>Koenigsegg Jesko - The Ultimate Performance Machine</figcaption>
                 </figure>
                 <p>The Jesko is named after Jesko von Koenigsegg, the father of the company founder. It features a 5.0-liter twin-turbo V8 engine producing up to 1,600 hp.</p>
@@ -30,7 +34,7 @@
             <article>
                 <h3>Koenigsegg Regera</h3>
                 <figure>
-                    <img src="resources\regera.jpg" alt="Koenigsegg Regera" width="600">
+                    <img src="resources\Regera\regera.jpg" alt="Koenigsegg Regera" width="600">
                     <figcaption>Koenigsegg Regera - A Revolutionary Hybrid Hypercar</figcaption>
                 </figure>
                 <p>The Regera combines a powerful V8 engine with an electric motor system, producing over 1,500 hp. It is designed for exceptional performance and luxury.</p>
@@ -55,3 +59,126 @@
     <script src="scripts.js"></script>
 </body>
 </html>
+
+
+<!---------------- MODELOS: ------------>
+
+<!---------------- CC850 -------------->
+
+<!-- Fotos resources\CC850\CC850-1.jpg
+[CC850-1.jpg]
+[CC850-2.jpg]
+[CC850-3.jpg]
+[CC850-4.jpg]
+[CC850-5.jpg]
+[CC850-6.jpg]
+-->
+
+<!--**THE DRIVER’S DREAM**
+The CC850 is the ideal combination of classic design and
+cutting-edge technology.
+
+Engineered to be the perfect driver’s car, every innovation in
+the CC850 is designed to enhance the driving experience. The
+award-winning Engage Shift System (ESS) is one such
+innovation, providing both a gated 6-speed manual and a
+9-speed automatic in the same transmission. The choice is
+yours!
+
+Inspired by the original CC8S, the CC850 features the classic
+Koenigsegg silhouette, while the interior, and particularly the
+analog chronocluster, is a work of art.
+
+***A LIMITED EDITION OF 70 VEHICLES**
+
+**CHRISTIAN VON KOENIGSEGG:**
+"Clearly, we struck a chord with the connoisseurs and the fans by blending our roots with novel thinking and a timeless design that stands apart from the rest. 
+We are humbled and grateful for the response and will do our utmost to exceed expectations."
+
+**CC850 SPECIFICATIONS**
+1385HP With E85
+1385NM 4800 rpm
+1385KG Curb weight
+185KG Total engine weight-->
+
+<!---------------- GEMERA -------------->
+
+<!-- resources\Gemera\GEMERA-1.jpg
+[GEMERA-1.jpg]
+[GEMERA-2.jpg]
+[GEMERA-3.jpg]
+[GEMERA-4.jpg]
+[GEMERA-5.jpg]
+[GEMERA-6.jpg]
+
+
+-->
+
+<!-- corpo
+
+
+
+-->
+
+<!---------------- JESKO ABSOLUT -------------->
+
+<!-- resources\Jesko Absolut\JESKOABSOLUT-1.jpg
+[JESKOABSOLUT-1.jpg]
+[JESKOABSOLUT-2.jpg]
+[JESKOABSOLUT-3.jpg]
+[JESKOABSOLUT-4.jpg]
+[JESKOABSOLUT-5.jpg]
+
+-->
+
+<!-- corpo
+
+
+
+--> 
+
+<!---------------- JESKO ATTACK -------------->
+
+<!-- Projeto-aula2\resources\Jesko Attack\JESKOATTACK.jpg
+[JESKOATTACK-1.jpg]
+[JESKOATTACK-2.jpg]
+[JESKOATTACK-3.jpg]
+[JESKOATTACK-4.jpg]
+[JESKOATTACK-5.jpg]
+
+
+-->
+
+<!-- corpo
+
+
+
+-->
+
+<!---------------- REGERA -------------->
+
+<!-- resources\Regera\regera.jpg
+[REGERA-1.jpg]
+
+
+-->
+
+<!-- corpo
+
+
+
+-->
+
+<!---------------- AGERA RS -------------->
+
+<!-- resources\Regera\regera.jpg
+[AGERARS-1.jpg]
+
+
+-->
+
+<!-- corpo
+
+
+
+-->
