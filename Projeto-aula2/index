@@ -15,12 +15,14 @@
             <h1>About Koenigsegg</h1>
             <p>Koenigsegg Automotive AB is a Swedish manufacturer of high-performance sports cars, founded in 1994 by Christian von Koenigsegg. The company is known for its commitment to innovation, advanced engineering, and exceptional performance.</p>
         </section>
+        <div class="container">
         <section>
             <h2>Models</h2>
             <article>
                 <h3>Koenigsegg Jesko</h3>
+                
                 <figure>
-                    <img src="jesko.jpg" alt="Koenigsegg Jesko" width="600">
+                    <img src="resources\jesko.jpg" alt="Koenigsegg Jesko" width="600">
                     <figcaption>Koenigsegg Jesko - The Ultimate Performance Machine</figcaption>
                 </figure>
                 <p>The Jesko is named after Jesko von Koenigsegg, the father of the company founder. It features a 5.0-liter twin-turbo V8 engine producing up to 1,600 hp.</p>
@@ -28,12 +30,13 @@
             <article>
                 <h3>Koenigsegg Regera</h3>
                 <figure>
-                    <img src="regera.jpg" alt="Koenigsegg Regera" width="600">
+                    <img src="resources\regera.jpg" alt="Koenigsegg Regera" width="600">
                     <figcaption>Koenigsegg Regera - A Revolutionary Hybrid Hypercar</figcaption>
                 </figure>
                 <p>The Regera combines a powerful V8 engine with an electric motor system, producing over 1,500 hp. It is designed for exceptional performance and luxury.</p>
             </article>
         </section>
+        </div>
         <section>
             <h2>Technology</h2>
             <article>
