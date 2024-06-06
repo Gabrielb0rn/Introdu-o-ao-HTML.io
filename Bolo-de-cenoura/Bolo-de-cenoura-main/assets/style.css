@@ -4,12 +4,24 @@ body {
     margin: 0;
     padding: 0;
 }
+/* body:
+
+Define a fonte padrão como Arial, sem serifa.
+Define a cor de fundo como #f9f9f9 (cinza claro).
+Remove as margens e espaçamentos padrão do corpo da página. */
+
 header {
     background-color: #ff6600;
     color: white;
     text-align: center;
     padding: 10px 0;
 }
+/* header:
+
+Define a cor de fundo como #ff6600 (laranja).
+Define a cor do texto como branco.
+Centraliza o texto.
+Adiciona um espaçamento de 10px acima e abaixo do texto. */
 .container {
     max-width: 800px;
     margin: 20px auto;
@@ -17,25 +29,52 @@ header {
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+/* .container:
+
+Define a largura máxima do conteúdo principal como 800px.
+Centraliza o conteúdo horizontalmente na página.
+Adiciona um espaçamento de 20px em todas as direções.
+Define a cor de fundo como branco.
+Adiciona uma sombra com 10px de deslocamento e 0.1 de opacidade. */
 h1, h2 {
     color: #333;
 }
+/* h1, h2:
+
+Define a cor do texto dos títulos h1 e h2 como #333 (cinza escuro). */
 p {
     line-height: 1.6;
 }
+/* p:
+
+Define a altura da linha do texto como 1.6. */
 ul {
     list-style-type: square;
     padding-left: 20px;
 }
+/* ul:
+
+Define o estilo da lista como "square" (quadrado).
+Adiciona um espaçamento de 20px à esquerda da lista. */
+
 ol {
     padding-left: 20px;
 }
+/* ol:
+
+Adiciona um espaçamento de 20px à esquerda da lista. */
 img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 20px 0;
 }
+/* img:
+
+Define a largura máxima da imagem como 100% da largura do container.
+Ajusta a altura da imagem automaticamente.
+Exibe a imagem como um bloco.
+Adiciona um espaçamento de 20px acima e abaixo da imagem. */
 footer {
     text-align: center;
     padding: 10px 0;
@@ -45,3 +84,22 @@ footer {
     width: 100%;
     bottom: 0;
 }
+/* footer:
+
+Centraliza o texto.
+Adiciona um espaçamento de 10px acima e abaixo do texto.
+Define a cor de fundo como #ff6600 (laranja).
+Define a cor do texto como branco.
+Define a posição como fixa na parte inferior da página.
+Define a largura como 100% da largura da página. */
+
+
+/* ---------- Propósito das regras -----------
+
+As regras CSS definidas neste código visam criar um layout limpo e organizado para um site.
+
+* A cor de fundo clara do corpo da página e a cor de fundo escura do cabeçalho e rodapé criam um contraste visual que facilita a leitura do conteúdo.
+* O container centraliza o conteúdo e define uma largura máxima para que o site seja responsivo em diferentes tamanhos de tela.
+* A sombra no container adiciona profundidade e destaque ao conteúdo.
+* Os estilos dos títulos, parágrafos, listas e imagens garantem que o conteúdo seja apresentado de forma clara e organizada.
+* O rodapé fixo na parte inferior da página facilita o acesso a informações importantes, como links para outras páginas ou informações de contato. */
